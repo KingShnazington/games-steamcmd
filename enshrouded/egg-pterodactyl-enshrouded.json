@@ -82,7 +82,7 @@
         },
         {
             "name": "[SERVER] Server Password",
-            "description": "Server password",
+            "description": "Server password, once set go to enshrouded_server.json and change the userGroups password to match",
             "env_variable": "SRV_PW",
             "default_value": "password",
             "user_viewable": true,
