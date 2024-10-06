@@ -106,7 +106,7 @@
             "name": "RCON Port",
             "description": "Does not need to be allocated!",
             "env_variable": "RCON_PORT",
-            "default_value": "25575",
+            "default_value": "5575",
             "user_viewable": true,
             "user_editable": false,
             "rules": "required|numeric",
