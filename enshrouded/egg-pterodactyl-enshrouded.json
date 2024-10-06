@@ -84,7 +84,7 @@
             "name": "[SERVER] Server Password",
             "description": "Server password",
             "env_variable": "SRV_PW",
-            "default_value": "Password",
+            "default_value": "password",
             "user_viewable": true,
             "user_editable": true,
             "rules": "nullable|string",
