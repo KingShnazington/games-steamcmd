@@ -96,7 +96,7 @@
             "name": "Server Password",
             "description": "If specified, players must provide this password to join the server.",
             "env_variable": "SERVER_PASSWORD",
-            "default_value": "",
+            "default_value": "Password",
             "user_viewable": true,
             "user_editable": true,
             "rules": "nullable|alpha_dash|between:1,30",
