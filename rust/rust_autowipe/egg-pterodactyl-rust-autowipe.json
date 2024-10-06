@@ -184,7 +184,7 @@
             "name": "QUERY PORT",
             "description": "Port for QUERY connections.",
             "env_variable": "QUERY_PORT",
-            "default_value": "28017",
+            "default_value": "8017",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|integer",
