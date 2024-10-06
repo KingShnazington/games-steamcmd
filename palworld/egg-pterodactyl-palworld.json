@@ -66,7 +66,7 @@
             "name": "Admin Password",
             "description": "If specified, players must provide this password (via the in-game chat or RCON) to gain access to administrator commands on the server.",
             "env_variable": "ADMIN_PASSWORD",
-            "default_value": "",
+            "default_value": "AdminPassword",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|alpha_dash|between:1,30",
