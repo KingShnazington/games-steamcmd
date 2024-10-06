@@ -19,7 +19,7 @@
     "config": {
         "files": "{}",
         "logs": "{}",
-        "startup": "{\r\n    \"done\": \"(Engine Initialization) Total time:\"\r\n}",
+        "startup": "{\r\n    \"done\": \"First launch will throw some errors. Ignore them\"\r\n}",
         "stop": "^C"
     },
     "scripts": {
